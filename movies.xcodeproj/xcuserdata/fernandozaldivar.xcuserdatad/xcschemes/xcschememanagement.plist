@@ -7,7 +7,20 @@
 		<key>movies.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7B8B27B427D7919A00429EDB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B8B27CA27D7919C00429EDB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

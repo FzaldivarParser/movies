@@ -1,0 +1,405 @@
+{
+    "dates": {
+        "maximum": "2022-03-31",
+        "minimum": "2022-03-08"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 414906,
+            "original_language": "en",
+            "original_title": "The Batman",
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "popularity": 3827.658,
+            "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "release_date": "2022-03-01",
+            "title": "The Batman",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "id": 438695,
+            "original_language": "en",
+            "original_title": "Sing 2",
+            "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+            "popularity": 1112.9,
+            "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+            "release_date": "2021-12-01",
+            "title": "Sing 2",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 2172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 335787,
+            "original_language": "en",
+            "original_title": "Uncharted",
+            "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+            "popularity": 866.391,
+            "poster_path": "/sqLowacltbZLoCa4KYye64RvvdQ.jpg",
+            "release_date": "2022-02-10",
+            "title": "Uncharted",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 691
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 522016,
+            "original_language": "en",
+            "original_title": "The 355",
+            "overview": "A group of top female agents from American, British, Chinese, Columbian and German  government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.",
+            "popularity": 781.748,
+            "poster_path": "/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",
+            "release_date": "2022-01-05",
+            "title": "The 355",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 313
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ilty8eu65u6vCJpyMva9ele8Qtm.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                10402
+            ],
+            "id": 615904,
+            "original_language": "en",
+            "original_title": "Marry Me",
+            "overview": "Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.",
+            "popularity": 761.793,
+            "poster_path": "/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+            "release_date": "2022-02-09",
+            "title": "Marry Me",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 230
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qfv7fqxmo40arI7g9kADxvHdVwa.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14
+            ],
+            "id": 508947,
+            "original_language": "en",
+            "original_title": "Turning Red",
+            "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+            "popularity": 564.507,
+            "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+            "release_date": "2022-03-10",
+            "title": "Turning Red",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2hGjmgZrS1nlsEl5PZorn7EsmzH.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 823625,
+            "original_language": "en",
+            "original_title": "Blacklight",
+            "overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
+            "popularity": 533.903,
+            "poster_path": "/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+            "release_date": "2022-02-10",
+            "title": "Blacklight",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ejgC2lEmuGXiP0A1LvwNezUjNmt.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 406759,
+            "original_language": "en",
+            "original_title": "Moonfall",
+            "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+            "popularity": 328.678,
+            "poster_path": "/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+            "release_date": "2022-02-03",
+            "title": "Moonfall",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/50DSlLDTB9l99A26vpEeyjWic14.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "id": 675353,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+            "popularity": 317.159,
+            "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+            "release_date": "2022-03-30",
+            "title": "Sonic the Hedgehog 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4gKxQIW91hOTELjY5lzjMbLoGxB.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 763164,
+            "original_language": "en",
+            "original_title": "Apex",
+            "overview": "Ex-cop Thomas Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.",
+            "popularity": 249.46,
+            "poster_path": "/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg",
+            "release_date": "2021-11-12",
+            "title": "Apex",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 402
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/VxMs7PvSG38fhkYli9o2mLsllD.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 892835,
+            "original_language": "en",
+            "original_title": "Book of Love",
+            "overview": "Young, uptight English writer Henry creates a novel that ends up being a resolute failure. He is delighted to find out his book is a surprise hit in Mexico but when he is invited there to promote it, he soon discovers why: his Spanish translator Maria has rewritten his dull book as an erotic novel. Henry is furious, and even more so when his publisher insists he and Maria conduct a book tour across Mexico together. Opposites attract and the chemistry between the couple ensures sparks fly.",
+            "popularity": 174.481,
+            "poster_path": "/aU4cUkmn8CqnBYlYgE2sHlZ2AGy.jpg",
+            "release_date": "2022-01-06",
+            "title": "Book of Love",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1RIbsZwmwjOWTR94LxEG7MO48v4.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 836225,
+            "original_language": "en",
+            "original_title": "The Exorcism of God",
+            "overview": "An American priest working in Mexico is considered a saint by many local parishioners. However, due to a botched exorcism, he carries a secret that’s eating him alive until he gets an opportunity to face his demon one final time.",
+            "popularity": 226.771,
+            "poster_path": "/pcqo9D8Bdppt6t9fBliJYPROZkv.jpg",
+            "release_date": "2022-02-10",
+            "title": "The Exorcism of God",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/56T4lCXrWCFhCeZxArSOXPQIfKc.jpg",
+            "genre_ids": [
+                28,
+                35,
+                99
+            ],
+            "id": 656663,
+            "original_language": "en",
+            "original_title": "Jackass Forever",
+            "overview": "Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.",
+            "popularity": 169.376,
+            "poster_path": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+            "release_date": "2022-02-01",
+            "title": "Jackass Forever",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qp8qKiP7Q7zK4z3LItwWMHfV9kJ.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 764835,
+            "original_language": "en",
+            "original_title": "The Desperate Hour",
+            "overview": "A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.",
+            "popularity": 221.838,
+            "poster_path": "/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg",
+            "release_date": "2022-02-17",
+            "title": "The Desperate Hour",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8T7SS4jU7TmtqrUr45JgZASCTUP.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 626735,
+            "original_language": "en",
+            "original_title": "Dog",
+            "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+            "popularity": 200.253,
+            "poster_path": "/pb8rHkAyojBYtMe5fnSvFMCPc3D.jpg",
+            "release_date": "2022-02-17",
+            "title": "Dog",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fbTxsnJcQwuwzCEu9VEiU9lV75Y.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 645788,
+            "original_language": "en",
+            "original_title": "The Protégé",
+            "overview": "Rescued as a child by the legendary assassin Moody and trained in the family business, Anna is the world’s most skilled contract killer. When Moody, the man who was like a father to her and taught her everything she needs to know about trust and survival, is brutally killed, Anna vows revenge. As she becomes entangled with an enigmatic killer whose attraction to her goes way beyond cat and mouse, their confrontation turns deadly and the loose ends of a life spent killing will weave themselves ever tighter.",
+            "popularity": 160.697,
+            "poster_path": "/o9FY8N5c8CXf22q8s4CmRRjAQJx.jpg",
+            "release_date": "2021-08-19",
+            "title": "The Protégé",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                9648
+            ],
+            "id": 810693,
+            "original_language": "ja",
+            "original_title": "劇場版 呪術廻戦 0",
+            "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+            "popularity": 173.575,
+            "poster_path": "/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg",
+            "release_date": "2021-02-24",
+            "title": "Jujutsu Kaisen 0",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kb7uR1UmXa33U6GB6F9xckFlhn.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 614917,
+            "original_language": "en",
+            "original_title": "King Richard",
+            "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+            "popularity": 161.55,
+            "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+            "release_date": "2021-11-18",
+            "title": "King Richard",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 845
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28,
+                10751,
+                80
+            ],
+            "id": 629542,
+            "original_language": "en",
+            "original_title": "The Bad Guys",
+            "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+            "popularity": 146.548,
+            "poster_path": "/qT2LvVFPB8Y7O0ER5LcBcNDm07E.jpg",
+            "release_date": "2022-03-17",
+            "title": "The Bad Guys",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qbDPVqbxFDNYfFWDxzLJ2UCbfvg.jpg",
+            "genre_ids": [
+                28,
+                878,
+                14
+            ],
+            "id": 526896,
+            "original_language": "en",
+            "original_title": "Morbius",
+            "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+            "popularity": 120.912,
+            "poster_path": "/o0DiJVE7titRdgcqIOFGKcVoBL0.jpg",
+            "release_date": "2022-03-30",
+            "title": "Morbius",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 21,
+    "total_results": 415
+}

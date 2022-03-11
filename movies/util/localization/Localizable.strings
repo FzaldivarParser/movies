@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  movies
+
+  Created by Fernando Zaldivar on 10/3/22.
+  
+*/
+
+// MARK: - Main Tab Bar View Controller
+
+"main_tab_bar_view_controller_popular" = "Popular";
+"main_tab_bar_view_controller_top_rated" = "Top Rated";
+"main_tab_bar_view_controller_upcoming" = "Upcoming";
+
+// MARK: - Movies View Controller
+
+"movies_view_controller_no_internet" = "No Internet Connection";
+"movies_view_controller_ok" = "OK";
